@@ -1,2 +1,3 @@
 # hotel2
-This is mu second git repo
+This is my second git repo.
+Author: Pronay Ghosh
